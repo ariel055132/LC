@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P1047_RemoveAllAdjacentDuplicatesInString.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P1047_RemoveAllAdjacentDuplicatesInString.md" />
+              <option name="frontendQuestionId" value="leetcode.com1047" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P1047_RemoveAllAdjacentDuplicatesInString.java" />
+              <option name="titleSlug" value="remove-all-adjacent-duplicates-in-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P110_BalancedBinaryTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P110_BalancedBinaryTree.md" />
+              <option name="frontendQuestionId" value="leetcode.com110" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P110_BalancedBinaryTree.java" />
+              <option name="titleSlug" value="balanced-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P151_ReverseWordsInAString.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P151_ReverseWordsInAString.md" />
+              <option name="frontendQuestionId" value="leetcode.com151" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P151_ReverseWordsInAString.java" />
+              <option name="titleSlug" value="reverse-words-in-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P1544_MakeTheStringGreat.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P1544_MakeTheStringGreat.md" />
+              <option name="frontendQuestionId" value="leetcode.com1544" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P1544_MakeTheStringGreat.java" />
+              <option name="titleSlug" value="make-the-string-great" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P1630_ArithmeticSubarrays.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P1630_ArithmeticSubarrays.md" />
+              <option name="frontendQuestionId" value="leetcode.com1630" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P1630_ArithmeticSubarrays.java" />
+              <option name="titleSlug" value="arithmetic-subarrays" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P1_TwoSum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P1_TwoSum.md" />
+              <option name="frontendQuestionId" value="leetcode.com1" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P1_TwoSum.java" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P223_RectangleArea.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P223_RectangleArea.md" />
+              <option name="frontendQuestionId" value="leetcode.com223" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P223_RectangleArea.java" />
+              <option name="titleSlug" value="rectangle-area" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P28_FindTheIndexOfTheFirstOccurrenceInAString.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P28_FindTheIndexOfTheFirstOccurrenceInAString.md" />
+              <option name="frontendQuestionId" value="leetcode.com28" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P28_FindTheIndexOfTheFirstOccurrenceInAString.java" />
+              <option name="titleSlug" value="find-the-index-of-the-first-occurrence-in-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P374_GuessNumberHigherOrLower.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P374_GuessNumberHigherOrLower.md" />
+              <option name="frontendQuestionId" value="leetcode.com374" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P374_GuessNumberHigherOrLower.java" />
+              <option name="titleSlug" value="guess-number-higher-or-lower" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P459_RepeatedSubstringPattern.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P459_RepeatedSubstringPattern.md" />
+              <option name="frontendQuestionId" value="leetcode.com459" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P459_RepeatedSubstringPattern.java" />
+              <option name="titleSlug" value="repeated-substring-pattern" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P48_RotateImage.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P48_RotateImage.md" />
+              <option name="frontendQuestionId" value="leetcode.com48" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P48_RotateImage.java" />
+              <option name="titleSlug" value="rotate-image" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P49_GroupAnagrams.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P49_GroupAnagrams.md" />
+              <option name="frontendQuestionId" value="leetcode.com49" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P49_GroupAnagrams.java" />
+              <option name="titleSlug" value="group-anagrams" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P503_NextGreaterElementII.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P503_NextGreaterElementII.md" />
+              <option name="frontendQuestionId" value="leetcode.com503" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P503_NextGreaterElementII.java" />
+              <option name="titleSlug" value="next-greater-element-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P54_SpiralMatrix.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P54_SpiralMatrix.md" />
+              <option name="frontendQuestionId" value="leetcode.com54" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P54_SpiralMatrix.java" />
+              <option name="titleSlug" value="spiral-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P575_DistributeCandies.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P575_DistributeCandies.md" />
+              <option name="frontendQuestionId" value="leetcode.com575" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P575_DistributeCandies.java" />
+              <option name="titleSlug" value="distribute-candies" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P58_LengthOfLastWord.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P58_LengthOfLastWord.md" />
+              <option name="frontendQuestionId" value="leetcode.com58" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P58_LengthOfLastWord.java" />
+              <option name="titleSlug" value="length-of-last-word" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P67_AddBinary.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P67_AddBinary.md" />
+              <option name="frontendQuestionId" value="leetcode.com67" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P67_AddBinary.java" />
+              <option name="titleSlug" value="add-binary" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P739_DailyTemperatures.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P739_DailyTemperatures.md" />
+              <option name="frontendQuestionId" value="leetcode.com739" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P739_DailyTemperatures.java" />
+              <option name="titleSlug" value="daily-temperatures" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P860_LemonadeChange.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P860_LemonadeChange.md" />
+              <option name="frontendQuestionId" value="leetcode.com860" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P860_LemonadeChange.java" />
+              <option name="titleSlug" value="lemonade-change" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P88_MergeSortedArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P88_MergeSortedArray.md" />
+              <option name="frontendQuestionId" value="leetcode.com88" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P88_MergeSortedArray.java" />
+              <option name="titleSlug" value="merge-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P896_MonotonicArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P896_MonotonicArray.md" />
+              <option name="frontendQuestionId" value="leetcode.com896" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P896_MonotonicArray.java" />
+              <option name="titleSlug" value="monotonic-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P989_AddToArrayFormOfInteger.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P989_AddToArrayFormOfInteger.md" />
+              <option name="frontendQuestionId" value="leetcode.com989" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P989_AddToArrayFormOfInteger.java" />
+              <option name="titleSlug" value="add-to-array-form-of-integer" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/[1]Two Sum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P1_TwoSum.md" />
+              <option name="frontendQuestionId" value="leetcode.com1" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P1_TwoSum.java" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/[2]Add Two Numbers.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/[2]Add Two Numbers.md" />
+              <option name="frontendQuestionId" value="leetcode.com2" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/[2]Add Two Numbers.java" />
+              <option name="titleSlug" value="add-two-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/8t/2c03gkfd7nz26tvqn9xfh2mm0000gn/T/leetcode/editor/en/[1]Two Sum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/P1_TwoSum.md" />
+              <option name="frontendQuestionId" value="leetcode.com1" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/P1_TwoSum.java" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/8t/2c03gkfd7nz26tvqn9xfh2mm0000gn/T/leetcode/editor/en/[2]Add Two Numbers.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/[2]Add Two Numbers.md" />
+              <option name="frontendQuestionId" value="leetcode.com2" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/[2]Add Two Numbers.java" />
+              <option name="titleSlug" value="add-two-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
