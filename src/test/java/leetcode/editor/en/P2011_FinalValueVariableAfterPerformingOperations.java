@@ -19,4 +19,22 @@ public class P2011_FinalValueVariableAfterPerformingOperations {
         int actualResult = solution2011.finalValueAfterOperations(operations);
         assertEquals(expectedResult, actualResult);
     }
+
+    @Test
+    void testExample2() {
+        setUp();
+        String[] operations = {"++X", "++X", "X++"};
+        int expectedResult = 3;
+        int actualResult = solution2011.finalValueAfterOperations(operations);
+        assertEquals(expectedResult, actualResult);
+    }
+
+    @Test
+    void testExample3() {
+        setUp();
+        String[] operations = {"X++", "++X", "--X", "X--"};
+        int expectedResult = 0;
+        int actualResult = solution2011.finalValueAfterOperations(operations);
+        assertEquals(expectedResult, actualResult);
+    }
 }
