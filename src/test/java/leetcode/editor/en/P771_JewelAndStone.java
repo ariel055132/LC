@@ -29,4 +29,14 @@ public class P771_JewelAndStone {
         int actualResult = solution771.numJewelsInStones(jewels, stones);
         assertEquals(expectedResult, actualResult);
     }
+
+    @Test
+    void testExample3() {
+        setUp();
+        String jewels = "";
+        String stones = "";
+        int expectedResult = 0;
+        int actualResult = solution771.numJewelsInStones1(jewels, stones);
+        assertEquals(expectedResult, actualResult);
+    }
 }

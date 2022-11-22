@@ -16,5 +16,21 @@ class Solution771 {
         }
         return result;
     }
+
+    // 1. Read the String jewels and build the corresponding hash set.
+    // 2. Read the String stones and count the results.
+    public int numJewelsInStones1(String jewels, String stones) {
+        int result = 0;
+        HashSet<Character> hashset = new HashSet<>();
+        for (char jewel : jewels.toCharArray()) {
+            hashset.add(jewel);
+        }
+        for (char stone : stones.toCharArray()) {
+            if (hashset.contains(stone)) {
+                result++;
+            }
+        }
+        return result;
+    }
 }
 //leetcode submit region end(Prohibit modification and deletion)
