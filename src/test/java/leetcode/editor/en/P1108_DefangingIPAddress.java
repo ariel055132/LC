@@ -19,4 +19,13 @@ public class P1108_DefangingIPAddress {
         String actualResult = solution1108.defangIPaddr(address);
         assertEquals(expectedResult, actualResult);
     }
+
+    @Test
+    void testExample2() {
+        setUp();
+        String address = "255.100.50.0";
+        String expectedResult = "255[.]100[.]50[.]0";
+        String actualResult = solution1108.defangIPaddr(address);
+        assertEquals(expectedResult, actualResult);
+    }
 }
