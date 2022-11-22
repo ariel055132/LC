@@ -16,5 +16,10 @@ class Solution1108 {
         }
         return stringBuilder.toString();
     }
+
+    public String defangIPaddr2(String address) {
+        address.replace(".", "[.]");
+        return address;
+    }
 }
 //leetcode submit region end(Prohibit modification and deletion)

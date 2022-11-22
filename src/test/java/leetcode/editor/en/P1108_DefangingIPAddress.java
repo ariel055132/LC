@@ -28,4 +28,13 @@ public class P1108_DefangingIPAddress {
         String actualResult = solution1108.defangIPaddr(address);
         assertEquals(expectedResult, actualResult);
     }
+
+    @Test
+    void testExample3() {
+        setUp();
+        String address = "192.168.13.32";
+        String expectedResult = "192[.]168[.]13[.]32";
+        String actualResult = solution1108.defangIPaddr2(address);
+        assertEquals(expectedResult, actualResult);
+    }
 }
