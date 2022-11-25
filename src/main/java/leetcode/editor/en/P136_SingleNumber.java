@@ -22,7 +22,7 @@ class Solution136 {
     // Apporach 2: Hash Table
     // 1. Itearte through all elements in nums and set up key/value pair.
     // 2. Return the element which appeared only once.
-    // Time Complexity:
+    // Time & Space Complexity: O(n)
     public int singleNumber1(int[] nums) {
         Hashtable<Integer, Integer> hashtable = new Hashtable<Integer, Integer>();
         for (int num : nums) {
