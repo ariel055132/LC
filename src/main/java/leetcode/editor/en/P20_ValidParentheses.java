@@ -8,6 +8,9 @@ import java.util.Stack;
 //leetcode submit region begin(Prohibit modification and deletion)
 class Solution20 {
     public boolean isValid(String s) {
+        if (s.length() % 2 == 0) {
+            return false;
+        }
         Stack<Character>stack = new Stack<>();
         HashMap<Character, Character> hashMap = new HashMap<>();
         hashMap.put(')', '(');

@@ -37,4 +37,22 @@ public class P20_ValidParentheses {
         boolean actualResult = solution20.isValid(s);
         assertEquals(expectedResult, actualResult);
     }
+
+    @Test
+    void testExample4() {
+        setUp();
+        String s = "([)]";
+        boolean expectedResult = false;
+        boolean actualResult = solution20.isValid(s);
+        assertEquals(expectedResult, actualResult);
+    }
+
+    @Test
+    void testExample5() {
+        setUp();
+        String s = "{[]}";
+        boolean expectedResult = true;
+        boolean actualResult = solution20.isValid(s);
+        assertEquals(expectedResult, actualResult);
+    }
 }
