@@ -25,4 +25,16 @@ public class P2225_FindPlayersWithZeroOrOneLosses {
         List<List<Integer>> actualResult = solution2225.findWinners(matches);
         assertEquals(expectedResult, actualResult);
     }
+
+    @Test
+    void testExample2() {
+        setUp();
+        int[][] matches = {{2,3},{1,3},{5,4},{6,4}};
+        List<List<Integer>> expectedResult = new ArrayList<>(Arrays.asList(
+                new ArrayList<>(Arrays.asList(1, 2, 5, 6)),
+                new ArrayList<>(Arrays.asList())
+        ));
+        List<List<Integer>> actualResult = solution2225.findWinners(matches);
+        assertEquals(expectedResult, actualResult);
+    }
 }
