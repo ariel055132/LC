@@ -13,6 +13,13 @@ package leetcode.editor.en;
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+class ListNode{
+    int val;
+    ListNode next;
+    ListNode() {}
+    ListNode(int val) { this.val = val; }
+    ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+}
 class Solution876 {
     public ListNode middleNode(ListNode head) {
         ListNode slow = head;
