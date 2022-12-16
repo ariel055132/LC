@@ -1,5 +1,6 @@
 package leetcode.editor.en;
 
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
@@ -10,7 +11,9 @@ public class P7_ReverseInteger {
     public void setUp() {
         solution7 = new Solution7();
     }
+
     @Test
+    @DisplayName("General Test Case")
     void testExample1() {
         setUp();
         int x = 123;
@@ -20,6 +23,7 @@ public class P7_ReverseInteger {
     }
 
     @Test
+    @DisplayName("TestCase: negative sign should be kept after reverse")
     void testExample2() {
         setUp();
         int x = -123;
@@ -29,6 +33,7 @@ public class P7_ReverseInteger {
     }
 
     @Test
+    @DisplayName("TestCase: unit digit is 0 should be ignored after reverse")
     void testExample3() {
         setUp();
         int x = 120;
@@ -38,6 +43,7 @@ public class P7_ReverseInteger {
     }
 
     @Test
+    @DisplayName("TestCase: OverFlow")
     void testExample4() {
         setUp();
         int x = 1534236469;
