@@ -23,6 +23,16 @@ public class P2404_MostFrequentEvenElement {
     }
 
     @Test
+    @DisplayName("LC TestCase 2")
+    void testExample2() {
+        setUp();
+        int[] nums = {4, 4, 4, 9, 2, 4};
+        int expectedResult = 4;
+        int actualResult = solution2404.mostFrequentEven(nums);
+        assertEquals(expectedResult, actualResult);
+    }
+
+    @Test
     @DisplayName("LC Hidden TestCase")
     void testHidden() {
         setUp();
