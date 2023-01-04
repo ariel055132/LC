@@ -3,7 +3,7 @@ package leetcode.editor.en;
 // $P75_SortColors
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution75 {
     public void sortColors(int[] nums) {
         int zeroCount = 0;
         int oneCount = 0;
