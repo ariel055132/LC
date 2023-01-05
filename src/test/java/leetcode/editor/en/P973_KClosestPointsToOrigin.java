@@ -33,6 +33,4 @@ public class P973_KClosestPointsToOrigin {
         int[][] actualResult = solution973.kClosest(points, k);
         assertArrayEquals(expectedResult, actualResult);
     }
-
-
 }
