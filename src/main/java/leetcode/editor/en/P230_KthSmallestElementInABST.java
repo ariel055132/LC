@@ -18,7 +18,7 @@ package leetcode.editor.en;
  *     }
  * }
  */
-class Solution {
+class Solution230 {
     private int counter = 0;
     private int result = -1; // final result
 
